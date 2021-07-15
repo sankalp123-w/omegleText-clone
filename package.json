@@ -1,0 +1,17 @@
+{
+  "name": "epsile-master",
+  "version": "1.0.0",
+  "description": "epsile - an anonymous one-to-one chat ====",
+  "main": "epsile-server.js",
+  "scripts": {
+   "start" : "node epsile-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^0.9.19"
+  }
+
+}
